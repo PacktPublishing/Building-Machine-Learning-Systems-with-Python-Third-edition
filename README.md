@@ -40,17 +40,17 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1-14     | Python 3                            | macOS, Ubuntu/Linux, or Windows    |
+| Chapter  | Software required                                     | OS required                        |
+| -------- | ------------------------------------------------------| -----------------------------------|
+| 1-14     | Python 3, NumPy, SciPy, scikit-learn (latest version) | Ubuntu/Linux, macOS or Windows     |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/HandsOnCryptographywithPython_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/BuildingMachineLearningSystemswithPythonThirdedition_ColorImages.pdf).
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Python Penetration Testing Cookbook [[Packt]](https://www.packtpub.com/networking-and-servers/python-penetration-testing-cookbook?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781784399771) [[Amazon]](https://www.amazon.com/dp/1784399779)
+* Mastering Machine Learning Algorithms [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-algorithms?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788621113) [[Amazon]](https://www.amazon.com/dp/1788621115)
 
-* Python For Offensive PenTest [[Packt]](https://www.packtpub.com/networking-and-servers/python-offensive-pentest?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788838979) [[Amazon]](https://www.amazon.com/dp/1788838971)
+* Machine Learning Solutions [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-solutions?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788390040) [[Amazon]](https://www.amazon.com/dp/1788390040)
 
 ## Get to Know the Author
 **Sam Bowne**
