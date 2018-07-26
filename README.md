@@ -52,9 +52,20 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Machine Learning Solutions [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-solutions?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788390040) [[Amazon]](https://www.amazon.com/dp/1788390040)
 
-## Get to Know the Author
-**Sam Bowne**
-Sam Bowne has been teaching computer networking and security classes at City College of San Francisco since 2000. He has given talks and hands-on training at DEFCON, HOPE, B-Sides SF, B-Sides LV, BayThreat, LayerOne, Toorcon, and many other schools and conferences. He has done his PhD and CISSP. He is a DEF CON Black-Badge co-winner.
+## Get to Know the Authors
+**Luis Pedro Coelho**
+is a computational biologist who analyzes DNA from microbial communities to characterize their behavior. He has also worked extensively in bioimage informatics―the application of machine learning techniques for the analysis of images of biological specimens. His main focus is on the processing and integration of large-scale datasets. He has a PhD from Carnegie Mellon University and has authored several scientific publications. In 2004, he began developing in Python and has contributed to several open source libraries. He is currently a faculty member at Fudan University in Shanghai.
+
+**Willi Richert**
+has a PhD in machine learning/robotics, where he has used reinforcement learning, hidden Markov models, and Bayesian networks to let heterogeneous robots learn by imitation. Now at Microsoft, he is involved in various machine learning areas, such as deep learning, active learning, or statistical machine translation. Willi started as a child with BASIC on his Commodore 128. Later, he discovered Turbo Pascal, then Java, then C++—only to finally arrive at his true love: Python.
+
+**Matthieu Brucher** 
+is a computer scientist who specializes in high-performance computing and computational modeling and currently works for JPMorgan in their quantitative research branch. He is also the lead developer of Audio ToolKit, a library for real-time audio signal processing. He has a PhD in machine learning and signals processing from the University of Strasbourg, two Master of Science degrees—one in digital electronics and signal processing and another in automation – from the University of Paris XI and Supelec, as well as a Master of Music degree from Bath Spa University.
+
+## Other books by the authors
+* [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781782161400)
+* [Building Machine Learning Systems with Python - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-second-edition?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781784392772)
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
