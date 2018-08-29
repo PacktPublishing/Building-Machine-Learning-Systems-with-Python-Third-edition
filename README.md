@@ -36,7 +36,7 @@ The code will look like the following:
 **Following is what you need for this book:**
 Building Machine Learning Systems with Python is for data scientists, machine learning developers, and Python developers who want to learn how to build increasingly complex machine learning systems. You will use Python's machine learning capabilities to develop effective solutions. Prior knowledge of Python programming is expected.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-3).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
 ### Software and Hardware List
 
