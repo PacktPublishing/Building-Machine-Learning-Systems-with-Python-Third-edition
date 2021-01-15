@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Building Machine Learning Systems with Python - Third edition
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781788623223"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09124_MockupCoverNew.png" alt="Building Machine Learning Systems with Python - Third edition" height="256px" align="right"></a>
